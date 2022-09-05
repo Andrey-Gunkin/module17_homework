@@ -1,0 +1,21 @@
+.completedTask {
+    margin: 0 auto;
+    width: 400px;
+    height: 40px;   
+}
+
+.completedTaskBtn {
+    margin: 0 auto;
+    width: 400px;
+    height: 40px;
+background-color: cadetblue;
+    color: rgb(22, 6, 6);
+    font-size: 18px;
+}
+
+.completedTaskNum{
+    background-color: beige;
+    font-size: 60px;
+    color: crimson;
+    text-align: center;
+}

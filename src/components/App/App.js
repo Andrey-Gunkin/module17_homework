@@ -1,7 +1,7 @@
 import { React, useState } from "react";
 import "./App.css";
-import ToDoList from "./ToDoList";
-import Button from "./Button";
+import ToDoList from "../ToDoList/ToDoList";
+import Button from "../Button/Button";
 
 
 
